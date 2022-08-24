@@ -5,3 +5,5 @@ Portfolio of programming projects
 In this project I used the implicit finite difference model to determine the option prices for a given stock. I then used the option prices retrieved during backward walk to formulate a graph of said prices.
 
 ![](https://github.com/LoganCon44/Portfolio/blob/main/Images/Finite_Differences_Python_img.png)
+
+# Project 2: IBM Data Science Python Assignment
