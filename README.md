@@ -6,4 +6,4 @@ In this project I used the implicit finite difference model to determine the opt
 
 ![](https://github.com/LoganCon44/Portfolio/blob/main/Images/Finite_Differences_Python_img.png)
 
-# Project 2: IBM Data Science Python Assignment
+# [Project 2: IBM Data Science Python Project](https://github.com/LoganCon44/Portfolio/blob/main/code%20files/IBM_Python_Project.ipynb)
