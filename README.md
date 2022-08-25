@@ -10,3 +10,5 @@ In this project I used the implicit finite difference model to determine the opt
 This project was part of the IBM Data Science Professional Certificate where I used yfinance to extract stock data and webscraping to extract revenue data for Tesla and GameStop. I then analyzed the data and plotted the revenue and stock data of both companies.
 
 ![](https://github.com/LoganCon44/Portfolio/blob/main/Images/Tesla_Plots.png)
+
+# [Project 3: P&L Attribution](https://github.com/LoganCon44/Portfolio/blob/main/code%20files/P%26L_Attribution.xlsx)
