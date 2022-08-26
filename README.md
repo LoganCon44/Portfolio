@@ -15,6 +15,5 @@ This project was part of the IBM Data Science Professional Certificate where I u
 The objective of this project is to construct a P&L attribution from COB Jan 27 and COB Jan 26 for 100,000 850-strike TSLA calls that expired on Feb 4, 2022. This was done using formulas for the Black-Scholes greeks to determine the change in price of the TSLA calls.
 
 # [Project 4: Finite Difference Models in Excel](https://github.com/LoganCon44/Portfolio/blob/main/code%20files/Finite_Differences.xlsx)
-
-
+For this project I used the stock and options of Apple to determine the price of european call and put options. Using the explicit finite differences algorithm I determined the price of the call and put options then compaired the results to the values I recieved from Black-Scholes and Binomial Lattice methods.
 # [Project 5: Analysis of Bonds in Excel](https://github.com/LoganCon44/Portfolio/blob/main/code%20files/Bonds_Data.xlsx)
