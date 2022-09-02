@@ -4,6 +4,8 @@ Portfolio of projects I have completed for academic and other learning purposes.
 # [Project 1: IBM Machine Learning Project](https://github.com/LoganCon44/Portfolio/blob/main/code%20files/IBM_Machine_Learning_Project.ipynb)
 The goal of this project was to build machine learning models to predict whether a loan case will be paid off or not. I loaded a dataset from previous loan applications, analyzed and cleaned the data, and applied different classification algorithms such as k-Nearest Neighbor, Decision Tree, Support Vector Machine, and Logistic Regression. When testing, I determined the accuracy of each model using Jaccard Index, F1 Score, and LogLoss.
 
+![](/Images/Decision_Tree.png)
+
 # [Project 2: Finite Difference Model in Python](https://github.com/LoganCon44/Portfolio/blob/main/code%20files/Finite_Differences_Python.ipynb)
 In this project I used the implicit finite difference model to determine the option prices for a given stock. I then used the option prices retrieved during backward walk to formulate a graph of said prices.
 
